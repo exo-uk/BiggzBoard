@@ -11,7 +11,7 @@
         "vid": "0xFEED"
     },
     "layouts": {
-        "LAYOUT_planck_mit": {
+        "LAYOUT_planck": {
             "layout": [
                 { "matrix": [0, 0], "x": 0, "y": 0 },
                 { "matrix": [0, 1], "x": 1, "y": 0 },
@@ -54,7 +54,7 @@
                 { "matrix": [3, 2], "x": 2, "y": 3 },
                 { "matrix": [3, 3], "x": 3, "y": 3 },
                 { "matrix": [3, 4], "x": 4, "y": 3 },
-                { "matrix": [3, 6], "w": 2, "x": 5, "y": 3 },
+                { "matrix": [3, 6], "w": 2, "x": 6, "y": 3 },
                 { "matrix": [3, 7], "x": 7, "y": 3 },
                 { "matrix": [3, 8], "x": 8, "y": 3 },
                 { "matrix": [3, 9], "x": 9, "y": 3 },
